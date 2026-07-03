@@ -1,24 +1,19 @@
-# README
+## Image bufferring implementation for "smooth animation"
+## Parallax effect demonstration (in progress)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* parallax in progress yet..
+* images buffering is implemented by loading of each picture to invisible canvas objects, that dynamically allocated
 
-Things you may want to cover:
 
-* Ruby version
+== Using
 
-* System dependencies
+    $ git clone git clone https://github.com/taraskov/parallax.git
+    $ cd parallax
+    $ bundle
+    $ rails s
 
-* Configuration
+# *Congratulations!*
+![IMG1](https://github.com/taraskov/parallax/blob/master/public/images/readme2.png)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+\*:..,:\*
