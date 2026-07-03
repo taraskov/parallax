@@ -13,7 +13,8 @@
     $ rails s
 
 # *Congratulations!*
-![IMG1](https://github.com/taraskov/parallax/blob/master/public/images/readme2.png)
+![IMG1](https://github.com/taraskov/parallax/blob/main/public/images/readme2.png)
+
 
 
 \*:..,:\*
