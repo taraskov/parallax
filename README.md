@@ -1,20 +1,24 @@
-## Image bufferring implementation for "smooth animation"
-## Parallax effect demonstration (in progress)
+# README
 
-* parallax in progress yet..
-* images buffering is implemented by loading of each picture to invisible canvas objects, that dynamically allocated
-* project uses minimal gems (3 gems) - any ruby/rails configuration should be appropriated.. just in case, I use Rails 4.2.5 with ruby 2.3.0 now.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
+Things you may want to cover:
 
+* Ruby version
 
-== Using
+* System dependencies
 
-    $ git clone git clone https://github.com/vitalyp/parallax.git
-    $ cd parallax
-    $ bundle
-    $ rails s
+* Configuration
 
-# *Congratulations!*
-![IMG1](https://github.com/vitalyp/parallax/blob/master/public/images/readme2.png)
+* Database creation
 
-\*:..,:\*
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...

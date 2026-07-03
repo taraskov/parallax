@@ -1,11 +1,12 @@
 class DemosController < ApplicationController
 
+  def index
+  end
+
   def joy
-    #joy.html.haml
     render layout: 'joy'
   end
 
-  # TODO: rename to 'parallax'
   def isite
     render layout: 'parallax'
   end  
